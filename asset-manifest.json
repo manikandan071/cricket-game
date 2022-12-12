@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cricket-game/static/css/main.938a7e4d.css",
+    "main.js": "/cricket-game/static/js/main.af274af6.js",
+    "static/js/787.ac8150d9.chunk.js": "/cricket-game/static/js/787.ac8150d9.chunk.js",
+    "index.html": "/cricket-game/index.html",
+    "main.938a7e4d.css.map": "/cricket-game/static/css/main.938a7e4d.css.map",
+    "main.af274af6.js.map": "/cricket-game/static/js/main.af274af6.js.map",
+    "787.ac8150d9.chunk.js.map": "/cricket-game/static/js/787.ac8150d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.938a7e4d.css",
+    "static/js/main.af274af6.js"
+  ]
+}
